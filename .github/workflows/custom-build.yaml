@@ -9,7 +9,8 @@ on:
 jobs:
   build:
     name: Build ${{ matrix.fontName }} font
-    if: github.repository == 'ylagr/Iosevka'
+    if: github.repository == 'ylagr/Iosevka---'
+    # not complete , file need change name, and use Official example to build ,so this file is old.
     runs-on: ubuntu-latest
 
     strategy:
