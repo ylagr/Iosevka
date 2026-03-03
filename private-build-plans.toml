@@ -10,7 +10,8 @@ noLigation = true
     # 1150 显示52行
     # leading = 1150
     # 1130显示55行
-    leading = 1130
+    # leading = 1130
+    leading = 1250
     cap = 665
     ascender = 665
     xHeight = 480
